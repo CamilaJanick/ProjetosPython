@@ -1,8 +1,0 @@
-{
-    "files.autoSave": "afterDelay",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "sync.autoDownload": true,
-    "sync.autoUpload": true,
-    "sync.quietSync": true
-}
